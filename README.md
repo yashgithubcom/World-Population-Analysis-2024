@@ -2,7 +2,7 @@
 
 ### **Overview**
 This repository contains a comprehensive analysis of global population trends in **2024**, with **predictions for 2025**, covering **234 countries and territories**. The study explores demographic indicators such as **population growth, density, migration, fertility rates, median age, and urbanization**. The goal is to provide insights into **global population dynamics, future projections, and regional trends**.
-![Banner](MLDS.jpg)
+![Banner](WPI.jpg)
 ### **Key Objectives**
 - **Population Trends:** Examine current population distributions and variations across regions.
 - **Growth & Decline:** Identify high-growth and declining populations by country.
